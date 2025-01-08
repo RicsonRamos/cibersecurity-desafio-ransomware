@@ -1,5 +1,3 @@
-Aqui está um exemplo de um **README** para o projeto descrito no código acima:
-
 ---
 
 # Criptografia de Arquivo com AES (Ransomware Simulado)
