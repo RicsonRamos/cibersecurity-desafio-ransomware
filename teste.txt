@@ -1,1 +1,1 @@
-alo brasil
+Esse código realiza a criptografia de um arquivo usando o algoritmo AES no modo CTR (Counter). Ele também manipula o arquivo criptografado de maneira a substituí-lo com um novo arquivo criptografado.
