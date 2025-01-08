@@ -1,5 +1,3 @@
----
-
 # Criptografia de Arquivo com AES (Ransomware Simulado)
 
 Este projeto simula o comportamento de um **ransomware**, utilizando a criptografia **AES no modo CTR** (Counter) para criptografar arquivos e salvá-los com uma nova extensão. O arquivo original é removido após a criptografia, tornando o conteúdo inacessível sem a chave adequada.
